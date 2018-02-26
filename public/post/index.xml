@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on João Gonçalves</title>
-    <link>/post/</link>
+    <link>http://joaogoncalves.cc/post/</link>
     <description>Recent content in Posts on João Gonçalves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://joaogoncalves.cc/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Remote Sensing / Earth Observation resources in a single page</title>
-      <link>/post/rs-eo-resources/</link>
+      <link>http://joaogoncalves.cc/post/rs-eo-resources/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/rs-eo-resources/</guid>
-      <description>Check more here: link</description>
+      <guid>http://joaogoncalves.cc/post/rs-eo-resources/</guid>
+      <description>Knowing where to search for the right data is critical, however with the increasing amount and availability of satellite Earth Observation data is difficult to keep track of things. So to help with this I decided to create a minimal list of different types of resources in RS/EO (mostly focusing on optical sensors). In this page, you can find data sources, learning materials, software and processing platforms among other potentially useful stuff.</description>
     </item>
     
   </channel>

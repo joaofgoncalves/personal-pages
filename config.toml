@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://joaogoncalves.cc/"
 
 # Title of your site
 title = "João Gonçalves"
@@ -20,7 +20,7 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "joaogoncalves"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-114386225-1"
@@ -41,6 +41,9 @@ defaultContentLanguageInSubdir = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
+
+  summary_length = 100
+
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "default"
