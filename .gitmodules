@@ -1,4 +1,4 @@
 [submodule "joaofgoncalves.github.io"]
-	path = joaofgoncalves.github.io
+	path = public
 	url = git@github.com:joaofgoncalves/joaofgoncalves.github.io
 	branch = master

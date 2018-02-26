@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
+    <title>Publications on João Gonçalves</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Academic</description>
+    <description>Recent content in Publications on João Gonçalves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,21 +13,30 @@
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Indicator-based assessment of post-fire recovery dynamics using satellite NDVI time-series</title>
+      <link>/publication/2018_02_torres_et_al_indicator-based-postfire-ndvi/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/2018_02_torres_et_al_indicator-based-postfire-ndvi/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Analysing carbon sequestration and storage dynamics in a changing mountain landscape in Portugal: Insights for management and planning</title>
+      <link>/publication/2017_11_sil_et_al_analysing-carbon-sequestration_storage-mountain/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/2017_11_sil_et_al_analysing-carbon-sequestration_storage-mountain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing how green space types affect ecosystem services delivery in Porto, Portugal</title>
+      <link>/publication/2017_11_graca_et_al_assessing_green_space_ecosystem_services_porto/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017_11_graca_et_al_assessing_green_space_ecosystem_services_porto/</guid>
+      <description></description>
     </item>
     
   </channel>
