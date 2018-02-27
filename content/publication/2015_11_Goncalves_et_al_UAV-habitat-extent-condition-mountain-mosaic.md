@@ -18,10 +18,10 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Applied Vegetation Science*"
-publication_short = "In *AVS*"
+publication_short = "In *Applied Vegetation Science*"
 
 # Abstract and optional shortened version.
-abstract = "In this work we evaluated how very high-resolution colour imagery and digital surface models from an unmanned aerial vehicle can be effectively used for assessing of habitat extent and condition in fine-scale disturbance-dependent mountain mosaics. [open to see the full abstract]"
+abstract = "In this work we evaluated how very high-resolution colour imagery and digital surface models from an unmanned aerial vehicle can be effectively used for assessing habitat extent and condition in fine-scale disturbance-dependent mountain mosaics. [open to see the full abstract]"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -35,7 +35,7 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/avsc.12204/abstract"
+url_pdf = "http://joaogoncalves.cc/files/2016_Goncalves_et_al_Evaluating-UAV-habitat-extent-condition-Natura-2000.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

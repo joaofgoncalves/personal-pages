@@ -35,7 +35,7 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S1470160X18300852"
+url_pdf = "http://joaogoncalves.cc/files/2018_Torres_et_al_Indicator-based-post-fire.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

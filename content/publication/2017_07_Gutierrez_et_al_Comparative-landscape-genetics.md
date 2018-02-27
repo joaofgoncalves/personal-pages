@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Molecular Ecology*"
-publication_short = "In *MolEcol*"
+publication_short = "In *Molecular Ecology*"
 
 # Abstract and optional shortened version.
 abstract = "We focus on Mediterranean wetlands in central Iberia and perform a multi-level, comparative study of two endemic pond-breeding amphibians, a salamander (_Pleurodeles waltl_) and a toad (_Pelobates cultripes_) and identified major factors associated with population connectivity through the analysis of three sets of variables potentially affecting gene flow at increasingly finer levels of spatial resolution. Overall, results suggest a positive role of structural heterogeneity in population connectivity in pond-breeding amphibians, with habitat patches of Mediterranean scrubland and open oak woodlands (_“dehesas”_) facilitating gene flow. [open to see the full abstract]"
@@ -35,7 +35,7 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/mec.14272/abstract"
+url_pdf = "http://joaogoncalves.cc/files/2017_Gutierrez-Rodriguez-Comparative-landscape-genetics-pond-breeding-amphibians-Mediterranean.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Biodiversity & Conservation*"
-publication_short = "In *BIOCON*"
+publication_short = "In *Biodiversity & Conservation*"
 
 # Abstract and optional shortened version.
 abstract = "In this paper we explored how satellite-based environmental variables can be fed into species distribution models (SDMs) to investigate species-environment relations and forecast responses to change. We address the spatiotemporal dynamics of species’ habitat suitability at the landscape level by combining multi-temporal RS data with SDMs for analysing inter-annual habitat suitability dynamics. [open to see the full abstract]"
@@ -35,7 +35,7 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://link.springer.com/article/10.1007/s10531-016-1206-7"
+url_pdf = "http://joaogoncalves.cc/files/2016_Goncalves_et_al-Exploring-spatiotemporal-dynamics-habitat-suitability-plant-species.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
