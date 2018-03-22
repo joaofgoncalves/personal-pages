@@ -6,7 +6,7 @@ lastmod = 2018-02-26
 draft = false
 
 tags = ["earth-observation"]
-summary = "A site for with useful resources in Remote Sensing / Earth Observation"
+summary = "A curated list of useful resources in Remote Sensing / Earth Observation"
 
 [header]
 image = "headers/esa-sentinel2.jpg"
