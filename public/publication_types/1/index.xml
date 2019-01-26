@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on João Gonçalves</title>
+    <link>http://joaogoncalves.cc/publication_types/1/</link>
+    <description>Recent content in 1 on João Gonçalves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://joaogoncalves.cc/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combining niche models and remote sensing to explore short-term habitat suitability temporal dynamics and improving biodiversity monitoring</title>
+      <link>http://joaogoncalves.cc/publication/2015_06_goncalves_et_al_combining-niche-models-remote-sensing/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2015_06_goncalves_et_al_combining-niche-models-remote-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote sensing indicators of changes in ecosystem functioning related to wildfire disturbances</title>
+      <link>http://joaogoncalves.cc/publication/2015_06_marcos_et_al_remote-sensing-indicators-wildfires/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2015_06_marcos_et_al_remote-sensing-indicators-wildfires/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

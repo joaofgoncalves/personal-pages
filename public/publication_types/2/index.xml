@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on João Gonçalves</title>
+    <link>http://joaogoncalves.cc/publication_types/2/</link>
+    <description>Recent content in 2 on João Gonçalves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://joaogoncalves.cc/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SegOptim - A new R package for optimizing object-based image analyses of high-spatial resolution remotely-sensed data</title>
+      <link>http://joaogoncalves.cc/publication/2019_01_goncalves_segoptim_r_package_image_segmentation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2019_01_goncalves_segoptim_r_package_image_segmentation/</guid>
+      <description>Full abstract Geographic Object-based Image Analysis (GEOBIA) is increasingly used to process high-spatial resolution imagery, with applications ranging from single species detection to habitat and land cover mapping. Image segmentation plays a key role in GEOBIA workflows, allowing to partition images into homogenous and mutually exclusive regions. Nonetheless, segmentation techniques require a robust parameterization to achieve the best results. Frequently, inappropriate parameterization leads to sub-optimal results and difficulties in comparing distinct methods.</description>
+    </item>
+    
+    <item>
+      <title>Patterns of landscape seasonality influence passerine diversity: Implications for conservation management under global change</title>
+      <link>http://joaogoncalves.cc/publication/2018_06_civantos_patterns_of_landscape_seasonality_influence_passerine_diversity/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2018_06_civantos_patterns_of_landscape_seasonality_influence_passerine_diversity/</guid>
+      <description>Full abstract The importance of environmental heterogeneity for biodiversity across scales is widely recognized in ecological theory and profusely supported by evidence. However, our understanding of the effects of spatiotemporal patterns of landscape functional properties on biodiversity is still rather limited. We examined the relationship between common passerine species richness and ecosystem functioning dynamics, namely seasonality, measured by satellite remote sensing. We focused on rural landscapes of a mountain National Park in Portugal undergoing rapid reshaping from agro-pastoral mosaics to early successional landscapes.</description>
+    </item>
+    
+    <item>
+      <title>Towards functional biodiversity predictions: a hierarchical modelling framework from primary productivity to biomass of upper trophic levels</title>
+      <link>http://joaogoncalves.cc/publication/2018_12_bastos_towards_functional_biodiversity_predictions/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2018_12_bastos_towards_functional_biodiversity_predictions/</guid>
+      <description>Full abstract Context Current shifts in biodiversity are driven by multiple processes of environmental and landscape change. Particularly, land use/land cover (LU/LC) dynamics are among the major drivers of biodiversity loss worldwide. Objectives In this study we aim to explore the applicability of a new modelling framework to predict top predators’ responses to LU/LC changes. Methods The framework integrates remote-sensing based predictors, statistical inference, stochastic-dynamic simulations and spatial projections in a common and interactive approach.</description>
+    </item>
+    
+    <item>
+      <title>Assessing the multi-scale predictive ability of ecosystem functional attributes for species distribution modelling</title>
+      <link>http://joaogoncalves.cc/publication/2018_06_arenas-castro_assessing_the_multi-scale_predictive_ability_efas/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2018_06_arenas-castro_assessing_the_multi-scale_predictive_ability_efas/</guid>
+      <description>Full abstract Global environmental changes are rapidly affecting species’ distributions and habitat suitability worldwide, requiring a continuous update of biodiversity status to support effective decisions on conservation policy and management. In this regard, satellite-derived Ecosystem Functional Attributes (EFAs) offer a more integrative and quicker evaluation of ecosystem responses to environmental drivers and changes than climate and structural or compositional landscape attributes. Thus, EFAs may hold advantages as predictors in Species Distribution Models (SDMs) and for implementing multi-scale species monitoring programs.</description>
+    </item>
+    
+    <item>
+      <title>Indicator-based assessment of post-fire recovery dynamics using satellite NDVI time-series</title>
+      <link>http://joaogoncalves.cc/publication/2018_02_torres_et_al_indicator-based-postfire-ndvi/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2018_02_torres_et_al_indicator-based-postfire-ndvi/</guid>
+      <description>Full abstract Fire disturbance severely modifies ecosystem structure and functioning, and therefore predicting post-fire responses is pivotal to improve land management. Indicators that efficiently link post-fire recovery with a timely decision on landscape management can play a key role in the governance of fire risk. We describe a framework to evaluate post-fire recovery based on remotely-sensed measures of relative vegetation recovery, calculated from satellite NDVI time-series. Three indicators are proposed: the novel Cumulative Relative Recovery Index (CRRI), measuring the (mid-long term) extent and completeness of recovery; the Recovery Trend Index (RTI), measuring the steepness of the mid-term post-fire recovery trend; and the Half Recovery Time index (HRT), a measure of the short-term recovery rate.</description>
+    </item>
+    
+    <item>
+      <title>Analysing carbon sequestration and storage dynamics in a changing mountain landscape in Portugal: Insights for management and planning</title>
+      <link>http://joaogoncalves.cc/publication/2017_11_sil_et_al_analysing-carbon-sequestration_storage-mountain/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2017_11_sil_et_al_analysing-carbon-sequestration_storage-mountain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing how green space types affect ecosystem services delivery in Porto, Portugal</title>
+      <link>http://joaogoncalves.cc/publication/2017_11_graca_et_al_assessing_green_space_ecosystem_services_porto/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2017_11_graca_et_al_assessing_green_space_ecosystem_services_porto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative landscape genetics of pond-breeding amphibians in Mediterranean temporal wetlands: The positive role of structural heterogeneity in promoting gene flow</title>
+      <link>http://joaogoncalves.cc/publication/2017_07_gutierrez_et_al_comparative-landscape-genetics/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2017_07_gutierrez_et_al_comparative-landscape-genetics/</guid>
+      <description>Full abstract Comparative landscape genetics studies can provide key information to implement cost-effective conservation measures favoring a broad set of taxa. These studies are scarce, particularly in Mediterranean areas, which include diverse but threatened biological communities. Here we focus on Mediterranean wetlands in central Iberia and perform a multi-level, comparative study of two endemic pond-breeding amphibians, a salamander (Pleurodeles waltl) and a toad (Pelobates cultripes). We genotyped 411 salamanders from 20 populations and 306 toads from 16 populations at 18 and 16 microsatellite loci, respectively, and identified major factors associated with population connectivity through the analysis of three sets of variables potentially affecting gene flow at increasingly finer levels of spatial resolution.</description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral-based predictive modelling of grapevine water status in the Portuguese Douro wine region</title>
+      <link>http://joaogoncalves.cc/publication/2017_06_pocas_et_al_hyperspectral-based-predictive-model-water-status/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2017_06_pocas_et_al_hyperspectral-based-predictive-model-water-status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing mismatches in ecosystem services proficiency across the urban fabric of Porto (Portugal): The influence of structural and socioeconomic variables</title>
+      <link>http://joaogoncalves.cc/publication/2017_02_graca_et_al_assessing_mismatches_ecosystem_services_porto/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2017_02_graca_et_al_assessing_mismatches_ecosystem_services_porto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Invasion Success by Non-Native Trees in a National Park Combining WorldView-2 Very High Resolution Satellite Data and Species Distribution Models</title>
+      <link>http://joaogoncalves.cc/publication/2017_01_monteiro_et_al_estimating_invasion_success_wv2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2017_01_monteiro_et_al_estimating_invasion_success_wv2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model-based framework for assessing the vulnerability of low dispersal vertebrates to landscape fragmentation under environmental change</title>
+      <link>http://joaogoncalves.cc/publication/2016_12_goncalves_et_al_model-based_framework_vertebrates_vulnerability/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2016_12_goncalves_et_al_model-based_framework_vertebrates_vulnerability/</guid>
+      <description>Full abstract Environmental changes are driving rapid geographic shifts of suitable environmental conditions for species. These might survive by tracking those shifts, however successful responses will depend on the spatial distribution of suitable habitats (current and future) and on their connectivity. Most herptiles (i.e., amphibians and reptiles) have low dispersal abilities, and therefore herptiles are among the most vulnerable groups to environmental changes. Here we assessed the vulnerability of herptile species to future climate and land use changes in fragmented landscapes.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the spatiotemporal dynamics of habitat suitability to improve conservation management of a vulnerable plant species</title>
+      <link>http://joaogoncalves.cc/publication/2016_09_goncalves_et_al_exploring-spatiotemporal-dynamics-veronica-micrantha/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2016_09_goncalves_et_al_exploring-spatiotemporal-dynamics-veronica-micrantha/</guid>
+      <description>Full abstract Ongoing declines in biodiversity caused by global environmental changes call for adaptive conservation management, including the assessment of habitat suitability spatiotemporal dynamics potentially affecting species persistence. Remote sensing (RS) provides a wide-range of satellite-based environmental variables that can be fed into species distribution models (SDMs) to investigate species-environment relations and forecast responses to change. We address the spatiotemporal dynamics of species’ habitat suitability at the landscape level by combining multi-temporal RS data with SDMs for analysing inter-annual habitat suitability dynamics.</description>
+    </item>
+    
+    <item>
+      <title>On the dual nature of lichen-induced rock surface weathering in contrasting micro-environments</title>
+      <link>http://joaogoncalves.cc/publication/2016_07_marques_et_al_lichen-induced-weathering/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2016_07_marques_et_al_lichen-induced-weathering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-scale looping approach to predict spatially dynamic patterns of functional species richness in changing landscapes</title>
+      <link>http://joaogoncalves.cc/publication/2016_05_bastos_et_al_multiscale_looping_model_approach/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2016_05_bastos_et_al_multiscale_looping_model_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosystem services and biodiversity conservation under forestation scenarios: options to improve management in the Vez watershed, NW Portugal</title>
+      <link>http://joaogoncalves.cc/publication/2015_11_carvalho-santos_et_al_ecosystem-services-vez-watershed/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2015_11_carvalho-santos_et_al_ecosystem-services-vez-watershed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating an Unmanned Aerial Vehicle-Based Approach for Assessing Habitat Extent and Condition in Fine-Scale Early Successional Mountain Mosaics</title>
+      <link>http://joaogoncalves.cc/publication/2015_11_goncalves_et_al_uav-habitat-extent-condition-mountain-mosaic/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2015_11_goncalves_et_al_uav-habitat-extent-condition-mountain-mosaic/</guid>
+      <description>Full abstract Question: Can very high-resolution colour orthophotography and digital surface models (DSMs) from an unmanned aerial vehicle (UAV) be effectively used for assessment of habitat extent and condition in fine-scale disturbance-dependent mosaics?
+Location: Serra de Arga mountain range, a Natura 2000 protected site in the NW region of Portugal where drastic changes in pastoral activities have occurred over recent decades.
+Methods: An UAV platform was used to collect very high-resolution (6 cm) images and to produce a DSM (10 cm).</description>
+    </item>
+    
+    <item>
+      <title>Systematic site selection for multispecies monitoring networks</title>
+      <link>http://joaogoncalves.cc/publication/2015_08_carvalhosb_et_al_systematic-site-selection-monitoring-networks/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2015_08_carvalhosb_et_al_systematic-site-selection-monitoring-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can we predict habitat quality from space? A multi-indicator assessment based on an automated knowledge-driven system</title>
+      <link>http://joaogoncalves.cc/publication/2015_05_vaz_et_al_habitat-quality-from-space/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2015_05_vaz_et_al_habitat-quality-from-space/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
