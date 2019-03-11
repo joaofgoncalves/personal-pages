@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Improving the detection of wildfire disturbances in space and time based on indicators extracted from MODIS data: a case study in northern Portugal</title>
+      <link>http://joaogoncalves.cc/publication/2019_01_marcos_et_al_improving_detection_wildfire_disturbances_modis/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2019_01_marcos_et_al_improving_detection_wildfire_disturbances_modis/</guid>
+      <description>
+
+&lt;h3 id=&#34;full-abstract&#34;&gt;Full abstract&lt;/h3&gt;
+
+&lt;p&gt;Wildfires constitute an important threat to human lives and livelihoods worldwide, as well as a major ecological disturbance. However, available wildfire databases often provide incomplete or inaccurate information, namely regarding the timing and extension of fire events. In this study, we described a generic framework to compare, rank and combine multiple remotely-sensed indicators of wildfire disturbances, in order to not only select the best indicators for each specific case, as well as to provide multi-indicator consensus approaches that can be used to detect wildfire disturbances in space and time. For this end, we compared the performance of different remotely-sensed variables to discriminate burned areas, by applying a simple change-point analysis procedure on time-series of MODIS imagery for the northern half of Portugal, without external information (e.g. active fire maps). Overall, our results highlight the importance of adopting a multi-indicator consensus approach for mapping and detecting wildfire disturbances at a regional scale, that allows to profit from spectral indices capturing different aspects of the Earth&amp;rsquo;s surface, and derived from distinct regions of the electromagnetic spectrum. Finally, we argue that the framework here described can be used: (i) in a wide variety of geographical and environmental contexts; (ii) to support the identification of the best possible remotely-sensed functional indicators of wildfire disturbance; and (iii) for improving and complementing incomplete wildfire databases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>SegOptim - A new R package for optimizing object-based image analyses of high-spatial resolution remotely-sensed data</title>
       <link>http://joaogoncalves.cc/publication/2019_01_goncalves_segoptim_r_package_image_segmentation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -183,15 +197,6 @@ So to help with this I decided to create a minimal list with different types of 
 
 &lt;p&gt;Ongoing declines in biodiversity caused by global environmental changes call for adaptive conservation management, including the assessment of habitat suitability spatiotemporal dynamics potentially affecting species persistence. Remote sensing (RS) provides a wide-range of satellite-based environmental variables that can be fed into species distribution models (SDMs) to investigate species-environment relations and forecast responses to change. We address the spatiotemporal dynamics of species’ habitat suitability at the landscape level by combining multi-temporal RS data with SDMs for analysing inter-annual habitat suitability dynamics. We implemented this framework with a vulnerable plant species (Veronica micrantha), by combining SDMs with a time-series of RS-based metrics of vegetation functioning related to primary productivity, seasonality, phenology and actual evapotranspiration. Besides RS variables, predictors related to landscape structure, soils and wildfires were ranked and combined through multi-model inference (MMI). To assess recent dynamics, a habitat suitability time-series was generated through model hindcasting. MMI highlighted the strong predictive ability of RS variables related to primary productivity and water availability for explaining the test-species distribution, along with soil, wildfire regime and landscape composition. The habitat suitability time-series revealed the effects of short-term land cover changes and inter-annual variability in climatic conditions. Multi-temporal SDMs further improved predictions, benefiting from RS time-series. Overall, results emphasize the integration of landscape attributes related to function, composition and spatial configuration for improving the explanation of ecological patterns. Moreover, coupling SDMs with RS functional metrics may provide early-warnings of future environmental changes potentially impacting habitat suitability. Applications discussed include the improvement of biodiversity monitoring and conservation strategies.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>On the dual nature of lichen-induced rock surface weathering in contrasting micro-environments</title>
-      <link>http://joaogoncalves.cc/publication/2016_07_marques_et_al_lichen-induced-weathering/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://joaogoncalves.cc/publication/2016_07_marques_et_al_lichen-induced-weathering/</guid>
-      <description></description>
     </item>
     
   </channel>

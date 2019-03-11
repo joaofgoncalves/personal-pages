@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Improving the detection of wildfire disturbances in space and time based on indicators extracted from MODIS data: a case study in northern Portugal</title>
+      <link>http://joaogoncalves.cc/publication/2019_01_marcos_et_al_improving_detection_wildfire_disturbances_modis/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://joaogoncalves.cc/publication/2019_01_marcos_et_al_improving_detection_wildfire_disturbances_modis/</guid>
+      <description>Full abstract Wildfires constitute an important threat to human lives and livelihoods worldwide, as well as a major ecological disturbance. However, available wildfire databases often provide incomplete or inaccurate information, namely regarding the timing and extension of fire events. In this study, we described a generic framework to compare, rank and combine multiple remotely-sensed indicators of wildfire disturbances, in order to not only select the best indicators for each specific case, as well as to provide multi-indicator consensus approaches that can be used to detect wildfire disturbances in space and time.</description>
+    </item>
+    
+    <item>
       <title>SegOptim - A new R package for optimizing object-based image analyses of high-spatial resolution remotely-sensed data</title>
       <link>http://joaogoncalves.cc/publication/2019_01_goncalves_segoptim_r_package_image_segmentation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
